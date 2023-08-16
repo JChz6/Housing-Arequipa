@@ -85,15 +85,15 @@ También existe un Dashboard iinteractivo (Reporte.pbix) construido en PowerBI p
 <!-- GETTING STARTED -->
 ## Cómo explorar el proyecto
 
-**bookscraper:** Carpeta que contiene los scrips y spiders y pipelines de procesamiento y limpieza de datos de scrapy para extraer los datos de inmuebles en venta en portales web. Contiene también los archivos .json resultantes de la extracción, tanto para casas como para departamentos (casasdata.json y depasdata.json)<br>
+- **bookscraper:** Carpeta que contiene los scripts y spiders y pipelines de procesamiento y limpieza de datos de scrapy para extraer los datos de inmuebles en venta en portales web. Contiene también los archivos .json resultantes de la extracción, tanto para casas como para departamentos (casasdata.json y depasdata.json)<br>
 
-**Reporte.pbix:** Archivo de PowerBI que contiene el dashboard interactivo de análisis de los datos extraídos.  <br>
+- **Reporte.pbix:** Archivo de PowerBI que contiene el dashboard interactivo de análisis de los datos extraídos.  <br>
 
-**propiedades.csv:** Archivo .csv con los datos concatenados de todos los inmuebles (casas y departamentos)<br>
+- **propiedades.csv:** Archivo .csv con los datos concatenados de todos los inmuebles (casas y departamentos)<br>
 
-**Housing Arequipa EDA.ipynb:** Jupyter Notebook con el análisis exploratorio, limpiesa y preparación de los datos para en análisis y modelado. <br>
+- **Housing Arequipa EDA.ipynb:** Jupyter Notebook con el análisis exploratorio, limpiesa y preparación de los datos para en análisis y modelado. <br>
 
-**HA_Model.ipynb:** Jupyter Notebook que contiene el modelado de machine learning, la iteración entre diferentes propuestas de modelo y su evaluación. <br>
+- **HA_Model.ipynb:** Jupyter Notebook que contiene el modelado de machine learning, la iteración entre diferentes propuestas de modelo y su evaluación. <br>
 
 
 
